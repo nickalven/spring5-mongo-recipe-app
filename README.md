@@ -2,7 +2,6 @@
 
 [![codecov](https://codecov.io/gh/nickalven/spring5-mongo-recipe-app/branch/master/graph/badge.svg)](https://codecov.io/gh/nickalven/spring5-mongo-recipe-app)
 
-
 # spring5-mongo-recipe-app
 Recipe Application Using MongoDB
 
